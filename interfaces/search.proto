@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+import "location.proto";
+
+message SearchRequest {
+    string query = 1;
+    SearchFilter filter = 2;
+}
+
+message SearchResponse {
+    repeated Location locations = 1;
+}
+
+message SearchFilter {
+    string city = 1;
+    string state = 2;
+    int32 zip_code = 3;
+}

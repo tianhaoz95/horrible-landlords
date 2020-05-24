@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "address.proto";
+import "comment.proto";
+
+message Location {
+    Address address = 1;
+    repeated Comment comments = 2;
+}

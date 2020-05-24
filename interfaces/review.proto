@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "comment.proto";
+import "address.proto";
+
+message AddReviewRequest {
+    Comment comment = 1;
+    Address address = 2;
+}

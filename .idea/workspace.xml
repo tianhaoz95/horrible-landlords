@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dev" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dev" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9ae64071-eed7-4e13-8749-5bd7916f37a2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/interfaces/address.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interfaces/comment.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interfaces/location.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interfaces/review.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interfaces/search.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1cLFPtFF6KXiwf1wPYnXFQm4C00" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Production App" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/app/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/app/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ae64071-eed7-4e13-8749-5bd7916f37a2" name="Default Changelist" comment="" />
+      <created>1590299945892</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590299945892</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1816" y="78" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590300437031">
+      <screen x="-2560" y="-112" width="2560" height="1057" />
+    </state>
+    <state x="-1816" y="78" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.777/-2560.-112.2560.1057@-2560.-112.2560.1057" timestamp="1590300437031" />
+    <state x="-1543" y="213" key="#com.intellij.ide.util.TreeFileChooserDialog" timestamp="1590300380497">
+      <screen x="-2560" y="-112" width="2560" height="1057" />
+    </state>
+    <state x="-1543" y="213" key="#com.intellij.ide.util.TreeFileChooserDialog/0.23.1280.777/-2560.-112.2560.1057@-2560.-112.2560.1057" timestamp="1590300380497" />
+    <state width="2518" height="207" key="GridCell.Tab.0.bottom" timestamp="1590302437792">
+      <screen x="-2560" y="-135" width="2560" height="1080" />
+    </state>
+    <state width="2518" height="207" key="GridCell.Tab.0.bottom/0.0.1280.800/-2560.-135.2560.1080@-2560.-135.2560.1080" timestamp="1590302437792" />
+    <state width="2518" height="197" key="GridCell.Tab.0.bottom/0.23.1280.777/-2560.-112.2560.1057@-2560.-112.2560.1057" timestamp="1590300615592" />
+    <state width="2518" height="207" key="GridCell.Tab.0.center" timestamp="1590302437790">
+      <screen x="-2560" y="-135" width="2560" height="1080" />
+    </state>
+    <state width="2518" height="207" key="GridCell.Tab.0.center/0.0.1280.800/-2560.-135.2560.1080@-2560.-135.2560.1080" timestamp="1590302437790" />
+    <state width="2518" height="197" key="GridCell.Tab.0.center/0.23.1280.777/-2560.-112.2560.1057@-2560.-112.2560.1057" timestamp="1590300615591" />
+    <state width="2518" height="207" key="GridCell.Tab.0.left" timestamp="1590302437788">
+      <screen x="-2560" y="-135" width="2560" height="1080" />
+    </state>
+    <state width="2518" height="207" key="GridCell.Tab.0.left/0.0.1280.800/-2560.-135.2560.1080@-2560.-135.2560.1080" timestamp="1590302437788" />
+    <state width="2518" height="197" key="GridCell.Tab.0.left/0.23.1280.777/-2560.-112.2560.1057@-2560.-112.2560.1057" timestamp="1590300615590" />
+    <state width="2518" height="207" key="GridCell.Tab.0.right" timestamp="1590302437791">
+      <screen x="-2560" y="-135" width="2560" height="1080" />
+    </state>
+    <state width="2518" height="207" key="GridCell.Tab.0.right/0.0.1280.800/-2560.-135.2560.1080@-2560.-135.2560.1080" timestamp="1590302437791" />
+    <state width="2518" height="197" key="GridCell.Tab.0.right/0.23.1280.777/-2560.-112.2560.1057@-2560.-112.2560.1057" timestamp="1590300615592" />
+    <state width="2518" height="207" key="GridCell.Tab.1.bottom" timestamp="1590302437799">
+      <screen x="-2560" y="-135" width="2560" height="1080" />
+    </state>
+    <state width="2518" height="207" key="GridCell.Tab.1.bottom/0.0.1280.800/-2560.-135.2560.1080@-2560.-135.2560.1080" timestamp="1590302437799" />
+    <state width="2518" height="207" key="GridCell.Tab.1.center" timestamp="1590302437797">
+      <screen x="-2560" y="-135" width="2560" height="1080" />
+    </state>
+    <state width="2518" height="207" key="GridCell.Tab.1.center/0.0.1280.800/-2560.-135.2560.1080@-2560.-135.2560.1080" timestamp="1590302437797" />
+    <state width="2518" height="207" key="GridCell.Tab.1.left" timestamp="1590302437794">
+      <screen x="-2560" y="-135" width="2560" height="1080" />
+    </state>
+    <state width="2518" height="207" key="GridCell.Tab.1.left/0.0.1280.800/-2560.-135.2560.1080@-2560.-135.2560.1080" timestamp="1590302437794" />
+    <state width="2518" height="207" key="GridCell.Tab.1.right" timestamp="1590302437798">
+      <screen x="-2560" y="-135" width="2560" height="1080" />
+    </state>
+    <state width="2518" height="207" key="GridCell.Tab.1.right/0.0.1280.800/-2560.-135.2560.1080@-2560.-135.2560.1080" timestamp="1590302437798" />
+    <state x="-1533" y="118" key="SettingsEditor" timestamp="1590307557547">
+      <screen x="-2560" y="-135" width="2560" height="1080" />
+    </state>
+    <state x="-1533" y="118" key="SettingsEditor/0.0.1280.800/-2560.-135.2560.1080@-2560.-135.2560.1080" timestamp="1590307557547" />
+    <state x="-1533" y="136" key="SettingsEditor/0.23.1280.777/-2560.-112.2560.1057@-2560.-112.2560.1057" timestamp="1590301784205" />
+    <state x="-1615" y="106" key="search.everywhere.popup" timestamp="1590306411516">
+      <screen x="-2560" y="-135" width="2560" height="1080" />
+    </state>
+    <state x="-1615" y="106" key="search.everywhere.popup/0.0.1280.800/-2560.-135.2560.1080@-2560.-135.2560.1080" timestamp="1590306411516" />
+  </component>
+</project>
